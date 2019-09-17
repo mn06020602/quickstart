@@ -8,9 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>萨格</title>
+    <title>hello web</title>
   </head>
   <body>
-  速度也是有
+  hello,Java Web
+  Web开发很有趣
   </body>
 </html>
